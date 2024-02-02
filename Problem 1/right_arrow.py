@@ -4,8 +4,8 @@ Lab Time: Friday, 3:00
 '''
 
 def right_arrow():
-    base_char = input("Character for arrow base")
-    head_char = input("Character for arrow head")
+    base_char = input("Character for arrow base: ")
+    head_char = input("Character for arrow head: ")
 
     row1 = base_char + head_char
     row2 = base_char + base_char + head_char
