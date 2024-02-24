@@ -1,6 +1,6 @@
 '''
 Name: Braedon Gehring
-Lab Time: Friday, 3:00
+Lab Time: Friday, 3:00 pm
 '''
 
 def right_arrow():
